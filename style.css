@@ -89,6 +89,7 @@ footer{
     bottom: 0;
     left: 50%;
     transform: translateX(-50%);
+    text-decoration: none;
     text-align: center;
     width: 100%;
     padding: 10px;
